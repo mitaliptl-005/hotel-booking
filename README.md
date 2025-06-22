@@ -19,4 +19,4 @@ A responsive and user-friendly **Hotel Booking Website** created using **HTML**,
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
-- Bootstrap 4/5 (if applicable)
+- Bootstrap 5
