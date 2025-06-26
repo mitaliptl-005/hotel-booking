@@ -3,6 +3,11 @@
 A responsive and user-friendly **Hotel Booking Website** created using **HTML**, **CSS**, and **JavaScript**. This website provides an elegant interface for users to explore hotel rooms, check availability, and simulate bookings.
 
 ---
+## Live Demo:
+
+Link: https://mitaliptl-005.github.io/hotel-booking/
+
+--
 
 ## 🎯 Key Features
 
